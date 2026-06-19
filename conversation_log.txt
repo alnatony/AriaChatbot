@@ -1,0 +1,9 @@
+[2026-06-19 23:24:23] System: === New conversation started ===
+[2026-06-19 23:24:23] Bot: Hello! I'm Aria, your AI assistant. How can I help you today?
+[2026-06-19 23:24:35] You: hey iam alna
+[2026-06-19 23:24:35] Bot: Good evening! How can I help?
+[2026-06-19 23:24:46] You (voice): Arya tell me a joke
+[2026-06-19 23:24:46] Bot: A SQL query walks into a bar, walks up to two tables and asks... Can I join you?
+[2026-06-19 23:25:01] You: bye
+[2026-06-19 23:25:01] Bot: Goodbye! It was great talking to you. Have an amazing day! 👋
+[2026-06-19 23:25:10] System: === Conversation ended ===
